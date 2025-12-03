@@ -918,4 +918,27 @@ textarea {
     .modal-content {
         width: 95%;
     }
+    .stats-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .cars-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .profile-info {
+        grid-template-columns: 1fr;
+    }
+
+    .form-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .page-header h1 {
+        font-size: 1.8rem;
+    }
+
+    .chat-messages {
+        height: 300px;
+    }
 }
